@@ -1,4 +1,4 @@
-package edu.unlan.diit.pa.ArmandoMoviles;
+package edu.unlam.diit.pa.ArmandoMoviles;
 
 import static org.junit.Assert.*;
 
